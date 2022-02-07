@@ -90,7 +90,9 @@ h6 {
 body {
    font-family: "Lato", sans-serif;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 .wrapper {
    min-height: 100%;
    overflow: hidden;
